@@ -1,0 +1,11 @@
+1. Faça um programa que leia um arquivo texto composto por valores double (crie este arquivo). 
+Nome desse arquivo é “reais.txt. O programa deve determinar e imprimir o menor e o maior valor contidos no arquivo “reais.txt”. 
+Os valores encontrados devem ser gravados no arquivo “menormaior.txt”.
+
+2. Faça um programa escreva em um arquivo texto, os números de 1 até 100 em binário.
+
+3. Faça um programa que imprima em um arquivo texto os números de 1 até 100, 
+e informe ao lado de cada um, se o mesmo é perfeito, abundante ou deficiente.
+
+4. Adapte seu programa que conta a quantidade de uma determinada palavra em uma frase, 
+para fazer a mesma verificação em um arquivo texto. Use um texto do https://www.gutenberg.org/
